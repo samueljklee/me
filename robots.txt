@@ -1,1 +1,1 @@
-Sitemap: https://samueljklee.github.io/page/sitemap.xml
+Sitemap: https://samueljklee.github.io/me/sitemap.xml
